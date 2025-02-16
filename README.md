@@ -28,7 +28,6 @@
 
 ### 🔥 What Sets Me Apart  
 ✅ Experience in **business digitalization & automation**  
-✅ Strong knowledge of **financial optimization & SaaS platforms**  
 ✅ Passion for **scalable architecture & high-performance applications**  
 ✅ Always exploring **new tech & improving my craft**  
 
