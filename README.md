@@ -3,9 +3,9 @@
 </div>
 <img src="https://i.imgur.com/lqhechC.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/AntonioSilvaDev?style=social)](https://github.com/AntonioSilvaDev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/antoniosilvadev/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=social&logo=vercel)](https://antoniosilva.dev)  
+[![GitHub followers](https://img.shields.io/github/followers/AntonioSilvaDev?style=social)](https://github.com/AntonioSilva096)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/antoniosilva096)
+
 
 ## 🚀 About Me  
 
