@@ -17,8 +17,7 @@
 🔹 **Backend & API Development**: Python, Django, Node.js, PostgreSQL  
 🔹 **Frontend & UI/UX**: React, Tailwind, JavaScript, TypeScript  
 🔹 **Cloud & DevOps**: Azure DevOps, CI/CD, Git  
-🔹 **Data & Optimization**: SQL, Performance Tuning, Business Analytics  
-🔹 **E-commerce & SaaS**: Custom Platforms, Freelance Finance Optimization  
+🔹 **Data & Optimization**: SQL, Performance Tuning, Business Analytics    
 
 ### 🎓 Experience  
 📍 5+ years as a **Freelance Developer & Programming Instructor**  
