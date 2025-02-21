@@ -9,15 +9,15 @@
 
 ## 🚀 About Me  
 
-💻 **Full-Stack Developer | Software Architect in Progress**  
+💻 **Full-Stack Developer | Software Architect in progress**  
 ⚡ Passionate about **custom software solutions & scalable web applications**  
 🎯 Helping businesses optimize processes through **automation & digitalization**  
 
 ### 🛠️ Tech Stack  
-🔹 **Backend & API Development**: Python, Django, Node.js, PostgreSQL  
-🔹 **Frontend & UI/UX**: React, Tailwind, JavaScript, TypeScript  
-🔹 **Cloud & DevOps**: Azure DevOps, CI/CD, Git  
-🔹 **Data & Optimization**: SQL, Performance Tuning, Business Analytics    
+🔹 **Backend & API Development**: Python, Django, Node.js, PostgreSQL, FastApi, Redis, Celery  
+🔹 **Frontend & UI/UX**: React, Tailwind, JavaScript, TypeScript, Cloudflare  
+🔹 **Cloud & DevOps**: Azure DevOps, CI/CD, Git, Docker, Kubernetes, Kafka, Gunicorn, NGINX  
+🔹 **Data & Optimization**: SQL, Performance Tuning, Business Analytics, Elasticsearch, Grafana    
 
 ### 🎓 Experience  
 📍 5+ years as a **Freelance Developer & Programming Instructor**  
